@@ -1,0 +1,109 @@
+H:\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\AlexeevaTipography.exe.config
+H:\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\AlexeevaTipography.exe
+H:\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\AlexeevaTipography.pdb
+H:\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.csproj.AssemblyReference.cache
+H:\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.OpenForm.resources
+H:\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.Properties.Resources.resources
+H:\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.csproj.GenerateResource.cache
+H:\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.csproj.CoreCompileInputs.cache
+H:\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.exe
+H:\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.pdb
+H:\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.LogIn.resources
+H:\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.SighUp.resources
+H:\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.Catalog.resources
+H:\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.Add.resources
+H:\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.Edit.resources
+H:\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.Info.resources
+H:\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.List.resources
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.csproj.AssemblyReference.cache
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.Add.resources
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.Catalog.resources
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.Edit.resources
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.OpenForm.resources
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.Info.resources
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.List.resources
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.LogIn.resources
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.Properties.Resources.resources
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.SighUp.resources
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.csproj.GenerateResource.cache
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.csproj.CoreCompileInputs.cache
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\AlexeevaTipography.exe.config
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\AlexeevaTipography.exe
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\AlexeevaTipography.pdb
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.AddOrder1.resources
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.exe
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\AlexeevaTipography.pdb
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Data.SqlClient.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Data.SqlClient.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\obj\Debug\Alexeeva.C3D5392D.Up2Date
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\Azure.Core.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\Azure.Identity.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Buffers.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.ClientModel.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Memory.Data.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Memory.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Security.AccessControl.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Security.Permissions.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Text.Json.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.ValueTuple.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\Azure.Core.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\Azure.Identity.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Buffers.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.ClientModel.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Memory.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Memory.Data.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Security.AccessControl.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Security.Permissions.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Text.Json.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\System.ValueTuple.xml
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\polin\OneDrive\Рабочий стол\УП от 09.12\AlexeevaTipography\AlexeevaTipography\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
